@@ -1,0 +1,11 @@
+.div.gallery{
+margin-left:20px;
+margin-right:20px;
+}
+
+#linha-2{
+    width: 150px;
+    height: 70px;
+    display:block;
+    margin-top:50px;
+}
